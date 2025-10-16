@@ -30,4 +30,9 @@ public class GroceryBill {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'add'");
     }
+
+    public double getTotal() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getTotal'");
+    }
 }
